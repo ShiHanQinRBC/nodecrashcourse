@@ -1,0 +1,18 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Shi Han <shihan.qin@rbc.com>",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
